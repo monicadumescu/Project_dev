@@ -1,0 +1,6 @@
+This is static text, and what follows is PHP:
+<?php
+echo "Hello #devCademy! ";
+echo "I am Dumescu Monica. ";
+echo "The time is " . date('Y-m-d H:i:s');
+?>
