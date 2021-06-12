@@ -1,0 +1,39 @@
+{
+  "name": "my-webpack-project",
+  "version": "1.0.0",
+  "description": "My webpack project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode=production --node-env=production",
+    "build:dev": "webpack --mode=development",
+    "build:prod": "webpack --mode=production --node-env=production",
+    "watch": "webpack --watch",
+    "serve": "webpack serve",
+    "postinstall": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adumitru68/devcademy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adumitru68/devcademy/issues"
+  },
+  "homepage": "https://github.com/adumitru68/devcademy#readme",
+  "devDependencies": {
+    "@types/jquery": "^3.5.5",
+    "@webpack-cli/generators": "^2.2.0",
+    "autoprefixer": "^10.2.6",
+    "css-loader": "^5.2.6",
+    "jquery": "^3.6.0",
+    "postcss": "^8.3.0",
+    "postcss-loader": "^5.3.0",
+    "style-loader": "^2.0.0",
+    "ts-loader": "^9.2.3",
+    "typescript": "^4.3.2",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
