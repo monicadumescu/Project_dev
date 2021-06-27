@@ -56,3 +56,275 @@
 [Tue Jun 01 18:25:26.042109 2021] [php7:notice] [pid 15220:tid 1872] [client 127.0.0.1:59593] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\\Framework\\TestCase' not found in C:\\xampp\\htdocs\\devcademy\\MainTest.php:6\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\devcademy\\MainTest.php on line 6, referer: http://devcademy.loc/
 [Tue Jun 01 18:25:30.527446 2021] [php7:notice] [pid 15220:tid 1872] [client 127.0.0.1:59593] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\\Framework\\TestCase' not found in C:\\xampp\\htdocs\\devcademy\\MainTest.php:6\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\devcademy\\MainTest.php on line 6, referer: http://devcademy.loc/
 [Tue Jun 01 18:35:39.993496 2021] [php7:notice] [pid 15220:tid 1872] [client 127.0.0.1:56356] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\\Framework\\TestCase' not found in C:\\xampp\\htdocs\\devcademy\\MainTest.php:6\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\devcademy\\MainTest.php on line 6, referer: http://devcademy.loc/
+[Tue Jun 22 11:53:05.540299 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:49182] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 11:53:05.680439 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:49182] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 11:53:05.680439 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:49182] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 11:53:05.769781 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:49182] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 11:53:05.769781 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:49182] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 11:53:05.769781 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:49182] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 11:53:05.770784 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:49182] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 11:53:05.770784 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:49182] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 11:53:05.771776 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:49182] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 11:53:05.771776 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:49182] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 11:53:05.771776 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:49182] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 11:53:05.772774 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:49182] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 11:53:05.773771 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:49182] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 11:53:05.773771 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:49182] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 11:53:05.773771 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:49182] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 11:53:05.774769 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:49182] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 11:53:05.774769 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:49182] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 11:53:05.775767 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:49182] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 11:58:30.038499 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:59376] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 11:58:30.095857 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:59376] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 11:58:30.095857 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:59376] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 11:58:30.096857 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:59376] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 11:58:30.097853 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:59376] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 11:58:30.097853 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:59376] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 11:58:30.099850 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:59376] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 11:58:30.099850 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:59376] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 11:58:30.100844 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:59376] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 11:58:30.100844 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:59376] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 11:58:30.101842 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:59376] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 11:58:30.101842 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:59376] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 11:58:30.102840 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:59376] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 11:58:30.103836 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:59376] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 11:58:30.103836 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:59376] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 11:58:30.104834 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:59376] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 11:58:30.105832 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:59376] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 11:58:30.105832 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:59376] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.578424 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Notice:  Undefined variable: name in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.578424 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.578424 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.578424 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.579421 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.579421 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.580418 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Notice:  Undefined variable: name in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.580418 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.580418 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.581417 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.581417 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.582414 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.582414 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Notice:  Undefined variable: name in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.583408 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.583408 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.584407 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.584407 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.584407 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.585405 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Notice:  Undefined variable: name in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.586402 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.586402 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.586402 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.587400 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.587400 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.588397 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Notice:  Undefined variable: name in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.588397 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.588397 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.589395 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.589395 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.589395 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.590392 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Notice:  Undefined variable: name in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.590392 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.590392 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.591389 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.591389 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:10:51.591389 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:64650] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.973364 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Notice:  Undefined variable: value in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.974361 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.975358 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.976242 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Notice:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.977244 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.977244 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.978241 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Notice:  Undefined variable: value in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.978241 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.979238 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.979238 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Notice:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.980236 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.980236 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.981233 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Notice:  Undefined variable: value in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.981233 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.981233 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.982230 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Notice:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.983228 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.983228 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.984225 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Notice:  Undefined variable: value in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.984225 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.985222 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.985222 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Notice:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.986219 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.986219 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.987217 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Notice:  Undefined variable: value in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.987217 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.988214 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.989213 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Notice:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.989213 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.990209 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.991208 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Notice:  Undefined variable: value in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.991208 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.992205 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.992205 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Notice:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.993203 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:06.993203 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:60879] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.461785 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Notice:  Undefined variable: value in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.462745 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.463745 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.540863 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Notice:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.541855 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.542852 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.544847 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Notice:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.545848 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.546842 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.548836 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Notice:  Undefined variable: value in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.549833 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.550838 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.551827 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Notice:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.552825 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.553824 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.554820 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Notice:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.555818 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.556814 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.556814 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Notice:  Undefined variable: value in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.557811 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.558809 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.558809 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Notice:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.559806 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.559806 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.561800 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Notice:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.561800 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.562800 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.562800 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Notice:  Undefined variable: value in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.563798 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.563798 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.564795 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Notice:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.564795 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.564795 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.565791 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Notice:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.565791 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.565791 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.565791 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Notice:  Undefined variable: value in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.566789 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.566789 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.566789 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Notice:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.567787 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.567787 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.567787 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Notice:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.568784 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.568784 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.568784 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Notice:  Undefined variable: value in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.568784 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.569781 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.569781 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Notice:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.569781 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.569781 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.570777 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Notice:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 38, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.570777 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 12:12:38.570777 2021] [php7:notice] [pid 3884:tid 1876] [client 127.0.0.1:63897] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 12:24:09.691498 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:54704] PHP Parse error:  syntax error, unexpected 'rel' (T_STRING), expecting ';' or ',' in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 36, referer: http://devcademy.loc/
+[Tue Jun 22 12:30:27.754262 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:57632] PHP Parse error:  syntax error, unexpected '$products' (T_VARIABLE), expecting ';' or ',' in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 40, referer: http://devcademy.loc/
+[Tue Jun 22 13:18:28.314579 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:55711] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 56, referer: http://devcademy.loc/
+[Tue Jun 22 13:18:28.346726 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:55711] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:18:28.358788 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:55711] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:18:28.507270 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:55711] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 56, referer: http://devcademy.loc/
+[Tue Jun 22 13:18:28.509264 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:55711] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:18:28.510261 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:55711] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:18:28.513253 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:55711] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 56, referer: http://devcademy.loc/
+[Tue Jun 22 13:18:28.514250 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:55711] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:18:28.516244 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:55711] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:18:28.518249 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:55711] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 56, referer: http://devcademy.loc/
+[Tue Jun 22 13:18:28.519247 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:55711] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:18:28.520245 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:55711] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:18:28.522239 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:55711] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 56, referer: http://devcademy.loc/
+[Tue Jun 22 13:18:28.523225 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:55711] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:18:28.524225 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:55711] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:18:28.525219 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:55711] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 56, referer: http://devcademy.loc/
+[Tue Jun 22 13:18:28.526223 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:55711] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:18:28.527214 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:55711] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:23:04.732160 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:63681] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:23:04.733198 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:63681] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:23:04.733198 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:63681] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:23:04.751216 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:63681] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:23:04.752263 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:63681] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:23:04.752263 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:63681] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:23:04.754221 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:63681] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:23:04.754221 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:63681] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:23:04.754221 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:63681] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:23:04.755269 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:63681] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:23:04.756210 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:63681] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:23:04.756210 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:63681] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:23:04.758246 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:63681] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:23:04.758246 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:63681] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:23:04.759203 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:63681] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:23:04.761200 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:63681] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:23:04.762195 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:63681] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:23:04.762195 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:63681] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:25:31.980088 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:50313] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:25:31.980088 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:50313] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:25:31.981090 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:50313] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:25:32.046039 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:50313] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:25:32.047034 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:50313] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:25:32.047034 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:50313] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:25:32.049028 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:50313] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:25:32.050025 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:50313] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:25:32.051024 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:50313] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:25:32.052021 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:50313] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:25:32.053018 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:50313] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:25:32.054015 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:50313] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:25:32.055012 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:50313] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:25:32.057009 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:50313] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:25:32.058005 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:50313] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:25:32.060001 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:50313] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:25:32.060997 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:50313] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:25:32.060997 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:50313] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:27:24.578430 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:63043] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:27:24.579424 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:63043] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:27:24.579424 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:63043] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:27:24.580424 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:63043] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:27:24.580424 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:63043] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:27:24.580424 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:63043] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:27:24.581419 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:63043] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:27:24.582381 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:63043] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:27:24.582381 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:63043] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:27:24.583378 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:63043] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:27:24.583378 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:63043] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:27:24.583378 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:63043] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:27:24.585376 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:63043] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:27:24.586371 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:63043] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:27:24.587378 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:63043] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:27:24.589364 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:63043] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:27:24.589364 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:63043] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:27:24.590365 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:63043] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:31:33.152465 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:52120] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:31:33.152465 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:52120] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:31:33.152465 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:52120] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:31:33.153460 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:52120] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:31:33.153460 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:52120] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:31:33.153460 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:52120] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:31:33.174542 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:52120] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:31:33.175544 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:52120] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:31:33.175544 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:52120] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:31:33.175544 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:52120] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:31:33.176540 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:52120] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:31:33.176540 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:52120] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:31:33.176540 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:52120] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:31:33.177538 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:52120] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:31:33.177538 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:52120] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:31:33.177538 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:52120] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:31:33.177538 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:52120] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:31:33.178535 2021] [php7:notice] [pid 3884:tid 1868] [client 127.0.0.1:52120] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:32:51.026523 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:54096] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:32:51.027578 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:54096] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:32:51.027578 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:54096] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:32:51.028571 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:54096] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:32:51.029568 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:54096] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:32:51.029568 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:54096] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:32:51.030565 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:54096] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:32:51.031517 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:54096] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:32:51.032518 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:54096] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:32:51.033517 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:54096] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:32:51.033517 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:54096] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:32:51.034514 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:54096] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:32:51.035507 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:54096] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:32:51.036509 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:54096] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:32:51.037501 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:54096] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
+[Tue Jun 22 13:32:51.038501 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:54096] PHP Notice:  Array to string conversion in C:\\xampp\\htdocs\\devcademy\\form_h8.php on line 55, referer: http://devcademy.loc/
+[Tue Jun 22 13:32:51.039497 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:54096] PHP Stack trace:, referer: http://devcademy.loc/
+[Tue Jun 22 13:32:51.040495 2021] [php7:notice] [pid 3884:tid 1892] [client 127.0.0.1:54096] PHP   1. {main}() C:\\xampp\\htdocs\\devcademy\\form_h8.php:0, referer: http://devcademy.loc/
